@@ -89,16 +89,16 @@ The program operates within a main loop that processes each frame from the webca
 
 - Red & Object Detection
   
-![Red & Object Detection](https://drive.google.com/uc?export=view&id=1jwYXBbjCsqUWrI1rvmaHY7y4gwGBw8Cm)
+![Red & Object Detection](assets/red_detection.gif)
 
 - Yellow & Object Detection
   
-![Yellow & Object Detection](https://drive.google.com/uc?export=view&id=14JGh84Jp474TEtInMEwqE51CzkMu6lPA)
+![Yellow & Object Detection](assets/yellow_detection.gif)
 
 - Face Detection
   
-![Face Detection](https://drive.google.com/uc?export=view&id=1SKb3G5xqJIZl7eiB25uzfnEgqEPziVh1)
+![Face Detection](assets/face_detection.gif)
 
 - Collusion & Distance Detection
   
-![Collusion & Distance Detection](https://drive.google.com/uc?export=view&id=1D1g3ToH5BGBokmvOV2vsXip7JoefqwYB)
+![Collusion & Distance Detection](assets/collusion_detection.gif)
